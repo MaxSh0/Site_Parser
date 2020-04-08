@@ -1,0 +1,17 @@
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\UnitTestParser.test.deps.json
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\UnitTestParser.test.runtimeconfig.json
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\UnitTestParser.test.runtimeconfig.dev.json
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\UnitTestParser.test.dll
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\UnitTestParser.test.pdb
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\ParserLibrary.dll
+F:\Parser\UnitTestParser.test\bin\Debug\netcoreapp2.1\ParserLibrary.pdb
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.csprojAssemblyReference.cache
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.csproj.CoreCompileInputs.cache
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.AssemblyInfoInputs.cache
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.AssemblyInfo.cs
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.csproj.CopyComplete
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.dll
+F:\Parser\UnitTestParser.test\obj\Debug\netcoreapp2.1\UnitTestParser.test.pdb

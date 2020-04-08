@@ -1,0 +1,9 @@
+F:\Parser\ParserLibrary\bin\Debug\netstandard2.0\ParserLibrary.deps.json
+F:\Parser\ParserLibrary\bin\Debug\netstandard2.0\ParserLibrary.dll
+F:\Parser\ParserLibrary\bin\Debug\netstandard2.0\ParserLibrary.pdb
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.csproj.CoreCompileInputs.cache
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.AssemblyInfoInputs.cache
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.AssemblyInfo.cs
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.dll
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.pdb
+F:\Parser\ParserLibrary\obj\Debug\netstandard2.0\ParserLibrary.csprojAssemblyReference.cache
